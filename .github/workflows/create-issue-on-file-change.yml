@@ -1,6 +1,8 @@
 name: Create issue on file change
 on:
   push:
+    branches:
+      - dev
     paths:
       - public/install-popup-button.js
 jobs:
