@@ -15,4 +15,4 @@ jobs:
         uses: actions/checkout@v4
       - name: Run GitHub CLI command
         run: |
-          gh issue create --repo alvarobyrne/actions-test --title "File changed" --body "File changed"
+          gh issue create --repo alvarobyrne/actions-test-target --title "File changed" --body "File changed"
