@@ -9,3 +9,4 @@ console.log('Default workflow permissions settings saved at https://github.com/a
 console.log('success!')
 console.log('set issue target repo to alvarobyrne/actions-test-target')
 console.log('after making the target repo a public repo')
+console.log('updated PTA: admin:org and admin:public_key')
